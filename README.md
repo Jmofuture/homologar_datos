@@ -65,6 +65,6 @@ python main.py
 ### Salida (Datos transformados)
 | Nombre   | Correo               | País         | Código país   | Teléfono      | Puesto de trabajo                          | Área       |
 |----------|----------------------|--------------|---------------|---------------|--------------------------------------------|------------|
-| MARITZA  | correo1@empresa.com  | MEXICO       | (+52)         | 55 5555 5555  | Ingeniero de proyectos y logística         | INGENIERO  |
-| ROSARIO  | correo2@empresa.com  | MEXICO       | (+52)         | 55 5555 5555  | Supervisor de logística y embarques        | SUPERVISOR |
+| MARITZA  | correo1@empresa.com  | MEXICO       | México (+52)  | 55 5555 5555  | Ingeniero de proyectos y logística         | INGENIERO  |
+| ROSARIO  | correo2@empresa.com  | MEXICO       | México (+52)  | 55 5555 5555  | Supervisor de logística y embarques        | SUPERVISOR |
 
