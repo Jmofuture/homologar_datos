@@ -63,8 +63,8 @@ python main.py
 | 2   | 28/04/2022 11:07                    | ROSARIO  | correo2@empresa.com  | MEXICO | MÉXICO            | 52          | 55 5555 5555   | Supervisor de logística y embarques        |
 
 ### Salida (Datos transformados)
-| Nombre   | Correo               | Código país   | Teléfono      | Puesto de trabajo                          | Área       |
-|----------|----------------------|---------------|---------------|--------------------------------------------|------------|
-| MARITZA  | correo1@empresa.com  | México (+52)  | 55 5555 5555  | Ingeniero de proyectos y logística         | INGENIERO  |
-| ROSARIO  | correo2@empresa.com  | México (+52)  | 55 5555 5555  | Supervisor de logística y embarques        | SUPERVISOR |
+| Nombre   | Correo               | País         | Código país   | Teléfono      | Puesto de trabajo                          | Área       |
+|----------|----------------------|--------------|---------------|---------------|--------------------------------------------|------------|
+| MARITZA  | correo1@empresa.com  | MEXICO       | (+52)         | 55 5555 5555  | Ingeniero de proyectos y logística         | INGENIERO  |
+| ROSARIO  | correo2@empresa.com  | MEXICO       | (+52)         | 55 5555 5555  | Supervisor de logística y embarques        | SUPERVISOR |
 

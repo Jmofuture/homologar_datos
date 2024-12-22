@@ -410,7 +410,7 @@ def datos_homologados()  -> pd.DataFrame:
 
     
     data_final = conn.execute("""
-        SELECT dc.Nombre ,dc.Correo ,dc."Código país" ,dc."Teléfono" ,dc.Puesto AS "Puesto de trabajo", da.area
+        SELECT dc.Nombre ,dc.Correo, dc."País" ,dc."Código país" ,dc."Teléfono" ,dc.Puesto AS "Puesto de trabajo", da.area
         FROM data_country_code AS dc
         INNER JOIN data_area AS da ON da.Correo = dc.Correo
     """).df()
